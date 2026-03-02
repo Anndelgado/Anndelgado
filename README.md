@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hello World 👋
 
+I’m Yulianis. I am interested in data analysis and project support.
+I like working with information, organizing tasks, and helping teams make better decisions.
+
+I am improving my programming and English skills to grow professionally.
+I am responsible, organized, and always ready to learn.
 <!--
 **Anndelgado/Anndelgado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
