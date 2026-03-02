@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-I’m Yulianis. I am interested in data analysis and project support.
+I’m Yulianis Delgado Barros. I'm interested in data analysis and project support.
 I like working with information, organizing tasks, and helping teams make better decisions.
 
 I am improving my programming and English skills to grow professionally.
